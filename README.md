@@ -22,5 +22,3 @@
 - Working with arrays and objects  
 - Using localStorage  
 - Building interactive UI  
-```bash
-git clone https://github.com/YOUR_USERNAME/todo-app.git
