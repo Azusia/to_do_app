@@ -15,14 +15,6 @@
 - JavaScript (Vanilla JS)  
 - LocalStorage API  
 
-## Preview
-
-(Add screenshot here later)
-
-## Live Demo
-
-(Add GitHub Pages link here)
-
 ## What I learned
 
 - DOM manipulation  
@@ -30,9 +22,5 @@
 - Working with arrays and objects  
 - Using localStorage  
 - Building interactive UI  
-
-## How to run
-
-1. Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/todo-app.git
